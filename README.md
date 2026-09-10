@@ -27,6 +27,7 @@
 | [0049-group-anagrams](https://github.com/VTU28964/pst/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/VTU28964/pst/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/VTU28964/pst/tree/master/0347-top-k-frequent-elements) |
+| [1732-find-the-highest-altitude](https://github.com/VTU28964/pst/tree/master/1732-find-the-highest-altitude) |
 | [2418-sort-the-people](https://github.com/VTU28964/pst/tree/master/2418-sort-the-people) |
 ## Sorting
 |  |
@@ -65,4 +66,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/VTU28964/pst/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/VTU28964/pst/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
