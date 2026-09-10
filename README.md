@@ -30,4 +30,8 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/VTU28964/pst/tree/master/0179-largest-number) |
+## Math
+|  |
+| ------- |
+| [1185-day-of-the-week](https://github.com/VTU28964/pst/tree/master/1185-day-of-the-week) |
 <!---LeetCode Topics End-->
