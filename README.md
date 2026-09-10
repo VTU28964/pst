@@ -32,6 +32,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VTU28964/pst/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/VTU28964/pst/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/VTU28964/pst/tree/master/0347-top-k-frequent-elements) |
+| [0704-binary-search](https://github.com/VTU28964/pst/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/VTU28964/pst/tree/master/0724-find-pivot-index) |
 | [1470-shuffle-the-array](https://github.com/VTU28964/pst/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/VTU28964/pst/tree/master/1672-richest-customer-wealth) |
@@ -126,4 +127,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/VTU28964/pst/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/VTU28964/pst/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
