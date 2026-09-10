@@ -6,6 +6,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VTU28964/pst/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/VTU28964/pst/tree/master/0049-group-anagrams) |
+| [0219-contains-duplicate-ii](https://github.com/VTU28964/pst/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/VTU28964/pst/tree/master/0347-top-k-frequent-elements) |
 | [2418-sort-the-people](https://github.com/VTU28964/pst/tree/master/2418-sort-the-people) |
 ## String
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VTU28964/pst/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/VTU28964/pst/tree/master/0219-contains-duplicate-ii) |
 ## Array
 |  |
 | ------- |
@@ -31,6 +33,7 @@
 | [0075-sort-colors](https://github.com/VTU28964/pst/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VTU28964/pst/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/VTU28964/pst/tree/master/0179-largest-number) |
+| [0219-contains-duplicate-ii](https://github.com/VTU28964/pst/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/VTU28964/pst/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/VTU28964/pst/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/VTU28964/pst/tree/master/0724-find-pivot-index) |
