@@ -24,6 +24,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/VTU28964/pst/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/VTU28964/pst/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/VTU28964/pst/tree/master/0053-maximum-subarray) |
 | [0179-largest-number](https://github.com/VTU28964/pst/tree/master/0179-largest-number) |
@@ -76,4 +77,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/VTU28964/pst/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/VTU28964/pst/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
