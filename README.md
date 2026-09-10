@@ -30,6 +30,7 @@
 | [0053-maximum-subarray](https://github.com/VTU28964/pst/tree/master/0053-maximum-subarray) |
 | [0179-largest-number](https://github.com/VTU28964/pst/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/VTU28964/pst/tree/master/0347-top-k-frequent-elements) |
+| [0724-find-pivot-index](https://github.com/VTU28964/pst/tree/master/0724-find-pivot-index) |
 | [1470-shuffle-the-array](https://github.com/VTU28964/pst/tree/master/1470-shuffle-the-array) |
 | [1732-find-the-highest-altitude](https://github.com/VTU28964/pst/tree/master/1732-find-the-highest-altitude) |
 | [2418-sort-the-people](https://github.com/VTU28964/pst/tree/master/2418-sort-the-people) |
@@ -74,6 +75,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/VTU28964/pst/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/VTU28964/pst/tree/master/1732-find-the-highest-altitude) |
 ## Dynamic Programming
 |  |
