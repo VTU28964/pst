@@ -28,6 +28,7 @@
 | [0027-remove-element](https://github.com/VTU28964/pst/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/VTU28964/pst/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/VTU28964/pst/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/VTU28964/pst/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/VTU28964/pst/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/VTU28964/pst/tree/master/0347-top-k-frequent-elements) |
 | [0724-find-pivot-index](https://github.com/VTU28964/pst/tree/master/0724-find-pivot-index) |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/VTU28964/pst/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/VTU28964/pst/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
 | ------- |
