@@ -32,6 +32,7 @@
 | [0347-top-k-frequent-elements](https://github.com/VTU28964/pst/tree/master/0347-top-k-frequent-elements) |
 | [0724-find-pivot-index](https://github.com/VTU28964/pst/tree/master/0724-find-pivot-index) |
 | [1470-shuffle-the-array](https://github.com/VTU28964/pst/tree/master/1470-shuffle-the-array) |
+| [1672-richest-customer-wealth](https://github.com/VTU28964/pst/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/VTU28964/pst/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/VTU28964/pst/tree/master/1920-build-array-from-permutation) |
 | [2418-sort-the-people](https://github.com/VTU28964/pst/tree/master/2418-sort-the-people) |
@@ -108,4 +109,8 @@
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/VTU28964/pst/tree/master/1920-build-array-from-permutation) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/VTU28964/pst/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
