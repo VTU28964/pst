@@ -24,6 +24,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/VTU28964/pst/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VTU28964/pst/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/VTU28964/pst/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/VTU28964/pst/tree/master/0053-maximum-subarray) |
@@ -80,6 +81,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/VTU28964/pst/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VTU28964/pst/tree/master/0027-remove-element) |
 | [0234-palindrome-linked-list](https://github.com/VTU28964/pst/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/VTU28964/pst/tree/master/0876-middle-of-the-linked-list) |
