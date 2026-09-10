@@ -36,6 +36,7 @@
 | [0724-find-pivot-index](https://github.com/VTU28964/pst/tree/master/0724-find-pivot-index) |
 | [1470-shuffle-the-array](https://github.com/VTU28964/pst/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/VTU28964/pst/tree/master/1672-richest-customer-wealth) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/VTU28964/pst/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/VTU28964/pst/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/VTU28964/pst/tree/master/1920-build-array-from-permutation) |
 | [2418-sort-the-people](https://github.com/VTU28964/pst/tree/master/2418-sort-the-people) |
@@ -57,6 +58,7 @@
 | [1154-day-of-the-year](https://github.com/VTU28964/pst/tree/master/1154-day-of-the-year) |
 | [1185-day-of-the-week](https://github.com/VTU28964/pst/tree/master/1185-day-of-the-week) |
 | [1360-number-of-days-between-two-dates](https://github.com/VTU28964/pst/tree/master/1360-number-of-days-between-two-dates) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/VTU28964/pst/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -82,6 +84,7 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/VTU28964/pst/tree/master/0724-find-pivot-index) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/VTU28964/pst/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/VTU28964/pst/tree/master/1732-find-the-highest-altitude) |
 ## Dynamic Programming
 |  |
