@@ -33,6 +33,7 @@
 | [0724-find-pivot-index](https://github.com/VTU28964/pst/tree/master/0724-find-pivot-index) |
 | [1470-shuffle-the-array](https://github.com/VTU28964/pst/tree/master/1470-shuffle-the-array) |
 | [1732-find-the-highest-altitude](https://github.com/VTU28964/pst/tree/master/1732-find-the-highest-altitude) |
+| [1920-build-array-from-permutation](https://github.com/VTU28964/pst/tree/master/1920-build-array-from-permutation) |
 | [2418-sort-the-people](https://github.com/VTU28964/pst/tree/master/2418-sort-the-people) |
 ## Sorting
 |  |
@@ -103,4 +104,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/VTU28964/pst/tree/master/0234-palindrome-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/VTU28964/pst/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
