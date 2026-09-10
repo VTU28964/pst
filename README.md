@@ -28,6 +28,7 @@
 | [0027-remove-element](https://github.com/VTU28964/pst/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/VTU28964/pst/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/VTU28964/pst/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/VTU28964/pst/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VTU28964/pst/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/VTU28964/pst/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/VTU28964/pst/tree/master/0347-top-k-frequent-elements) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/VTU28964/pst/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/VTU28964/pst/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/VTU28964/pst/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/VTU28964/pst/tree/master/0347-top-k-frequent-elements) |
 | [2418-sort-the-people](https://github.com/VTU28964/pst/tree/master/2418-sort-the-people) |
@@ -90,6 +92,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VTU28964/pst/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VTU28964/pst/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/VTU28964/pst/tree/master/0075-sort-colors) |
 | [0234-palindrome-linked-list](https://github.com/VTU28964/pst/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/VTU28964/pst/tree/master/0876-middle-of-the-linked-list) |
 ## Linked List
@@ -115,4 +118,12 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/VTU28964/pst/tree/master/1672-richest-customer-wealth) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/VTU28964/pst/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/VTU28964/pst/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
